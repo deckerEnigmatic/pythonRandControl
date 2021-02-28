@@ -4,4 +4,7 @@
     **Parameters:** <p>
       low_range = lowest number in range <br/>
       high_range = highest number in range <br/>
+      log_handle = path to file <br/>
+      sleep_factor = interval in seconds to wait before retreiving the next number </br>
+      
 [link to Google!](http://google.com)
