@@ -8,4 +8,4 @@
       sleep_factor = interval in seconds to wait before retreiving the next number </br>
       exper_num = numeric label for a specific run
       
-[link to Google!](http://google.com)
+
