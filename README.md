@@ -6,6 +6,8 @@
       high_range = highest number in range <br/>
       log_handle = path to file <br/>
       sleep_factor = interval in seconds to wait before retreiving the next number </br>
-      exper_num = numeric label for a specific run
+      exper_num = numeric label for a specific run <p>
+  
+  Make sure to update the IP address of the remote RNG server before running.
       
 
